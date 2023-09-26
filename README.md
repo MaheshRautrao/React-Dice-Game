@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# React Dice Game Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React app developed by me to learn and enhance my react skills. <br>
+In this app first you visit landing page there you select play game and then you enter game page. <br>
+In the Game page you can read rules and play the game.
 
-## Available Scripts
+Features : 
+- Toggle rules
+- Reset score
+- Spin dice and update score
+- Dice will roll only if you have selected the number
+- selected number div has different background and color than others
 
-In the project directory, you can run:
+# Live Demo
 
-### `npm start`
+https://maheshrautrao.github.io/React-Dice-Game/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ ## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  `React` `HTML` `CSS` `styled elements for css` `Javascript`
 
-### `npm test`
+ ## Learnings
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - React
+  - React props
+  - Use state and State management
+  - Passing function as props
+  - Styled elements for styling
+  - Props in styled elements
+  - Inherit styled elements
+  - Modular Design
+  - Reusing Code
+  - data processing
+  - Error resolving
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ## Screen-shots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="https://github.com/MaheshRautrao/React-Dice-Game/assets/101188065/9384553c-3139-43fe-b5ad-2fdb5644953f" width="400">
+<img src="https://github.com/MaheshRautrao/React-Dice-Game/assets/101188065/4e203e31-ae5b-435f-904b-bedf36e5e5f2" width="400">
+<img src="https://github.com/MaheshRautrao/React-Dice-Game/assets/101188065/448fde8c-06de-4835-b0f5-1d2b673fe0e1" width="400">
+<img src="https://github.com/MaheshRautrao/React-Dice-Game/assets/101188065/0dda28f8-d450-40bc-af45-428d9e7d4882" width="400">
+<img src="https://github.com/MaheshRautrao/React-Dice-Game/assets/101188065/44156aad-e6f6-46a0-a3d5-e5087b567996" width="400">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
