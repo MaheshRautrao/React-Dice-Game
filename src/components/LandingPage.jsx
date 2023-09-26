@@ -5,7 +5,7 @@ const LandingPage = ({ gameStart }) => {
   return (
     <LandingMainContainer>
       <ImgContainer>
-        <img src="/images/dices.png" alt="dice-image" />
+        <img src="./images/dices.png" alt="dice-image" />
       </ImgContainer>
       <HeadingContainer>
         <div>DICE GAME</div>
